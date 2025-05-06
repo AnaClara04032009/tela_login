@@ -1,0 +1,25 @@
+body{
+    /* background-image: url('foto.png'); */
+    background-position: center;
+    background-size: cover;
+    background-color: chocolate;
+}
+
+
+
+h1{
+    font-size: 2.5em;
+    font-weight: bold
+
+    
+}
+p{
+    font-size: 2.5em;
+   text-align: justify;
+   line-height: 1.5;
+}
+
+    
+
+
+
